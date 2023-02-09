@@ -1,0 +1,12 @@
+2023-01-09  20:23:56	INFO	test macro fmt info bb
+2023-01-09  20:23:56	ERROR	test macro fmt error aa
+2023-01-09  22:24:54	INFO	test macro fmt info bb
+2023-01-09  22:24:54	ERROR	test macro fmt error aa
+2023-01-10  22:19:35	INFO	test macro fmt info bb
+2023-01-10  22:19:35	ERROR	test macro fmt error aa
+2023-01-10  22:26:25	INFO	test macro fmt info bb
+2023-01-10  22:26:25	ERROR	test macro fmt error aa
+2023-01-10  22:38:33	INFO	test macro fmt info bb
+2023-01-10  22:38:33	ERROR	test macro fmt error aa
+2023-02-03  23:25:27	INFO	test macro fmt info bb
+2023-02-03  23:25:27	ERROR	test macro fmt error aa

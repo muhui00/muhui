@@ -1,0 +1,16 @@
+logs:
+    - name: root
+      level: info
+      formatter: '%d%T%m%n'
+      appenders:
+          - type: FileLogAppender
+            file: /home/muhui/mumu/apps/logs/root.log
+          - type: StdoutLogAppender
+    - name: system
+      level: debug
+      formatter: '%d%T%m%n'
+      appenders:
+          - type: FileLogAppender
+            file: /home/muhui/mumu/apps/logs/system.log
+            formatter: '%d%T[%p]%T%m%n'
+          - type: StdoutLogAppender

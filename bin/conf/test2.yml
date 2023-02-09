@@ -1,0 +1,7 @@
+logs:
+    - name: root
+      level: info
+      appenders:
+          - type: StdoutLogAppender
+            #file: /home/muhui/mumu/apps/logs/test.log
+ 
